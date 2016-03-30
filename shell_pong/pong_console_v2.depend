@@ -1,0 +1,136 @@
+# depslib dependency file v1.0
+1403195271 source:c:\users\romain\documents\codeblocks\pong_console_v2\game\collision.c
+	<stdlib.h>
+	<math.h>
+	"collision.h"
+
+1402334965 c:\users\romain\documents\codeblocks\pong_console_v2\game\collision.h
+	"../config/game_cfg.h"
+	"../config/game_struct.h"
+
+1402829721 c:\users\romain\documents\codeblocks\pong_console_v2\config\game_cfg.h
+
+1402830735 c:\users\romain\documents\codeblocks\pong_console_v2\config\game_struct.h
+
+1402838826 source:c:\users\romain\documents\codeblocks\pong_console_v2\game\game.c
+	<stdlib.h>
+	<windows.h>
+	"game.h"
+	"collision.h"
+	"game_ai.h"
+	"../render/game_render.h"
+	"../sound.h"
+
+1399927616 c:\users\romain\documents\codeblocks\pong_console_v2\game\player.h
+	"../config/game_cfg.h"
+	"../config/game_struct.h"
+
+1399927637 c:\users\romain\documents\codeblocks\pong_console_v2\game\player_ai.h
+	"../config/game_cfg.h"
+	"../config/game_struct.h"
+
+1402569870 c:\users\romain\documents\codeblocks\pong_console_v2\game\game.h
+	"../config/game_cfg.h"
+	"../config/game_struct.h"
+
+1400014024 source:c:\users\romain\documents\codeblocks\pong_console_v2\game\player.c
+	"player.h"
+
+1400014039 source:c:\users\romain\documents\codeblocks\pong_console_v2\game\player_ai.c
+	<math.h>
+	"player_ai.h"
+
+1399924484 source:c:\users\romain\documents\codeblocks\pong_console_v2\input\basic_input.c
+	"basic_input.h"
+
+1399927622 c:\users\romain\documents\codeblocks\pong_console_v2\input\basic_input.h
+
+1399924515 source:c:\users\romain\documents\codeblocks\pong_console_v2\input\game_input.c
+	"game_input.h"
+
+1399927604 c:\users\romain\documents\codeblocks\pong_console_v2\input\game_input.h
+	"../config/game_cfg.h"
+
+1399924466 source:c:\users\romain\documents\codeblocks\pong_console_v2\input\menu_input.c
+	"menu_input.h"
+
+1399927610 c:\users\romain\documents\codeblocks\pong_console_v2\input\menu_input.h
+	"../config/menu_cfg.h"
+
+1401307776 c:\users\romain\documents\codeblocks\pong_console_v2\config\menu_cfg.h
+
+1403352484 source:c:\users\romain\documents\codeblocks\pong_console_v2\main.c
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"config/menu_cfg.h"
+	"config/game_struct.h"
+	"menu.h"
+	"game/game.h"
+	"render/game_render.h"
+	"sound.h"
+	<stdio.h>
+
+1399981201 c:\users\romain\documents\codeblocks\pong_console_v2\render\menu.h
+	"../config/menu_cfg.h"
+
+1401473649 c:\users\romain\documents\codeblocks\pong_console_v2\render\game_render.h
+	"../config/game_cfg.h"
+	"../config/game_struct.h"
+
+1392820950 source:c:\users\romain\documents\codeblocks\pong_console_v2\pong.rc
+
+1402314405 source:c:\users\romain\documents\codeblocks\pong_console_v2\render\game_render.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+	"game_render.h"
+
+1399981338 source:c:\users\romain\documents\codeblocks\pong_console_v2\render\menu.c
+	"menu.h"
+
+1401307725 source:c:\users\romain\documents\codeblocks\pong_console_v2\data_input.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	"data_input.h"
+
+1401307734 c:\users\romain\documents\codeblocks\pong_console_v2\data_input.h
+
+1401307677 source:c:\users\romain\documents\codeblocks\pong_console_v2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	"menu.h"
+	"data_input.h"
+	"sound.h"
+
+1401307665 c:\users\romain\documents\codeblocks\pong_console_v2\menu.h
+	"config/menu_cfg.h"
+	"config/game_struct.h"
+
+1400878794 source:c:\users\romain\documents\codeblocks\pong_console_v2\game\game_ia.c
+	<math.h>
+	"game_ai.h"
+
+1403195563 c:\users\romain\documents\codeblocks\pong_console_v2\game\game_ai.h
+	"../config/game_cfg.h"
+	"../config/game_struct.h"
+
+1401307487 c:\users\romain\documents\codeblocks\pong_console_v2\sound.h
+
+1402576409 source:c:\users\romain\documents\codeblocks\pong_console_v2\sound.c
+	<windows.h>
+	<string.h>
+	"sound.h"
+
+1403349586 source:c:\users\romain\documents\codeblocks\pong_console_v2\game\game_ai.c
+	<stdlib.h>
+	<math.h>
+	"../config/game_cfg.h"
+	"game_ai.h"
+
